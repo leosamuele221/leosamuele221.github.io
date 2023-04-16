@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://leosamuele221.github.io/sitemap.xml
